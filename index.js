@@ -14,6 +14,11 @@ let posts = [
         id : uuidv4(),
         username : "Sam",
         content: "Hii all , I have just completed 1000 questions on Leetcode."
+    },
+    {
+        id: uuidv4(),
+        username : "saneh",
+        content : "🥲🥲"
     }
 ]
 
